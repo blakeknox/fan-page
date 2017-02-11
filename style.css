@@ -1,7 +1,48 @@
 body {
-   background-color: #999900;
-   color: #000000;
+    background-color: darkkhaki;
+    background-image: linear-gradient(to bottom, #ffffff, darkkhaki);
+    background-repeat: no-repeat;
+    color: #000000;
 }
-.heading1 {color: white}
-#highlight {color: aquamarine}
-.style {color:crimson}
+
+.heading1 {
+    color: black
+}
+
+#highlight {
+    color: crimson
+}
+
+.style {
+    color: crimson
+}
+
+#headmargin {
+    margin-top: 20px;
+}
+
+#container {
+    margin: auto;
+    background-color: azure;
+    width: 80%;
+    align-content: center;
+    padding: 10px;
+}
+
+h1 {
+    background-color: darkseagreen;
+    opacity: 0.6;
+    width: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px solid #000000;
+    border-radius: 15px;
+}
+
+h2 {
+    margin-top: 5%;
+}
+
+h3 {
+    margin-top: 5%;
+}
