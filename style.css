@@ -17,16 +17,13 @@ body {
     color: crimson
 }
 
-#headmargin {
-    margin-top: 20px;
-}
-
 #container {
     margin: auto;
     background-color: azure;
     width: 80%;
     align-content: center;
     padding: 10px;
+    box-shadow: 10px 10px 10px #828282;
 }
 
 h1 {
@@ -41,8 +38,13 @@ h1 {
 
 h2 {
     margin-top: 5%;
+    text-shadow: 2px 2px 2px #828282;
 }
 
 h3 {
     margin-top: 5%;
+}
+
+footer {
+    margin-top: 5%
 }
